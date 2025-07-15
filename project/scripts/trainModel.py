@@ -34,7 +34,7 @@ if __name__ == "__main__":
     # Train Random Forest model
     print("Training Random Forest model...")
     rf_model = train_random_forest(X_train, y_train)
-    print("Random Forest model trained and saved as 'dataset/random_forest_model.pkl'")
+    print("Random Forest model trained and saved as 'trainedModel/random_forest_model.pkl'")
 
     # Print dataset shapes for verification
     print(f"Training set shape: {X_train.shape}")
