@@ -1,0 +1,15 @@
+Attack Name,Technique ID,Technique Name,Tactics
+Bot,T1071,Application Layer Protocol,Command and Control
+DDoS,T1498,Network Denial of Service,Impact
+DoS GoldenEye,T1499,Endpoint Denial of Service,Impact
+DoS Hulk,T1499,Endpoint Denial of Service,Impact
+DoS Slowhttptest,T1499,Endpoint Denial of Service,Impact
+DoS slowloris,T1499,Endpoint Denial of Service,Impact
+FTP-Patator,T1110.001,Password Guessing,Credential Access
+Heartbleed,T1190,Exploit Public-Facing Application,Initial Access
+Infiltration,T1105,Ingress Tool Transfer,Command and Control
+PortScan,T1046,Network Service Discovery,Discovery
+SSH-Patator,T1110.001,Password Guessing,Credential Access
+Web Attack  Brute Force,T1110.001,Password Guessing,Credential Access
+Web Attack  Sql Injection,T1190,Exploit Public-Facing Application,Initial Access
+Web Attack  XSS,T1059.007,JavaScript,Execution
