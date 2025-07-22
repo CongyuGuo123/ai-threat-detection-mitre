@@ -25,6 +25,7 @@ Please run the following steps to generate detailed visualized reports and figur
     $ pip3 install pandas
     $ pip3 install seaborn
     $ pip3 install scikit-learn
+    $ ...
   - **run <dataprocess.py> file to get consolidated datasets for model training and testing:**
     ```bash
     $ python3 dataproess.py
