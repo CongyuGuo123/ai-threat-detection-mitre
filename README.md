@@ -1,6 +1,7 @@
 # ai-threat-detection-mitre
 AI-Driven Threat Detection with MITRE ATTACK Mapping
-Author: Congyu Guo, Zhehui Liu, Yiran Wang
+
+Authors: Congyu Guo, Zhehui Liu, Yiran Wang
 
 ## Setup Instructions
 
