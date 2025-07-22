@@ -5,7 +5,7 @@ Authors: Congyu Guo, Zhehui Liu, Yiran Wang
 
 ## Setup Instructions
 
-Please run the following steps to regenerate the tokensim data:
+Please run the following steps to generate detailed visualized reports and figures:
 
 ### Clone the artifact and run the code.
   - **Fetch the code:** 
