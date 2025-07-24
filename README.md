@@ -28,7 +28,7 @@ Please run the following steps to generate detailed visualized reports and figur
     $ ...
   - **run <dataprocess.py> file to get consolidated datasets for model training and testing:**
     ```bash
-    $ python3 dataproess.py
+    $ python3 dataprocess.py
   - **run <trainModel.py> file to get trained model:**
     ```bash
     $ python3 trainModel.py
