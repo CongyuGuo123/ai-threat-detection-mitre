@@ -16,7 +16,7 @@ Please run the following steps to generate detailed visualized reports and figur
     $ cd scripts
   - **Create the virtual environment in IDE:**
     ```bash
-    $ python3 m-venv project
+    $ python3 -m venv project
   - **Compile the virtual environment:**
     ```bash
     $ source project/bin/activate
