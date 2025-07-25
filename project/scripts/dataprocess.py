@@ -32,7 +32,7 @@ def preprocess_dataset(df):
     # Drop rows with NaN or missing values
     df.dropna(inplace=True)
     # Remove duplicates
-    df.drop_duplicates(inplace=True)
+    # df.drop_duplicates(inplace=True)
     # Encode labels (Benign vs. Attack types)
     label_encoder = LabelEncoder()
     df['Label'] = label_encoder.fit_transform(df['Label'])

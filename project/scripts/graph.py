@@ -14,7 +14,8 @@ mapping_df = pd.read_csv('attack_to_mitre_mapping.csv')
 
 # Build label-to-attack name and technique ID mapping (skip label 0 = BENIGN)
 label_to_info = {
-    i: (mapping_df.iloc[i - 1]['Attack Name'], mapping_df.iloc[i - 1]['Technique ID'])
+    i: (mapping_df.iloc[i - 1]['Attack Name'],
+        mapping_df.iloc[i - 1]['Technique ID'])
     for i in range(1, 15)
 }
 
